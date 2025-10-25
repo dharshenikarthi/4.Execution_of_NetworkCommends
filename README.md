@@ -95,9 +95,11 @@ if __name__ == "__main__":
 
 ## Output
 
-<img width="1919" height="1199" alt="Screenshot 2025-10-09 220738" src="https://github.com/user-attachments/assets/e472c2d9-cf54-4306-813c-c3878b648709" />
+<img width="1919" height="1199" alt="Screenshot 2025-10-25 121222" src="https://github.com/user-attachments/assets/ea80a8c5-8f99-42b6-8860-f6ddd8f4ff4c" />
 
-<img width="1920" height="1200" alt="Screenshot 2025-10-09 221120" src="https://github.com/user-attachments/assets/e42b528c-28b6-4b1d-b4c8-71654df73b71" />
+<img width="1915" height="1195" alt="Screenshot 2025-10-25 121232" src="https://github.com/user-attachments/assets/dcfb626a-ac18-48c3-b52d-a2b88dc829b7" />
+
+<img width="1916" height="1199" alt="Screenshot 2025-10-25 121242" src="https://github.com/user-attachments/assets/aa3225b5-dd41-41fc-b4b4-85d54f0c5062" />
 
 
 ## Result
